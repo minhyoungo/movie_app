@@ -1,3 +1,3 @@
-# Movir App 2020
+# Movie App 2020
 
 React JS Fundametals Course (2020)
